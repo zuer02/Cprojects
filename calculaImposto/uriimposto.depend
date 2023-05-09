@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620408095 source:c:\users\josué\documents\projetos codeblocks\uriimposto\main.c
+	<stdio.h>
+	<stdlib.h>
+
